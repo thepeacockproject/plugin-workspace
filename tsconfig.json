@@ -35,5 +35,5 @@
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true
     },
-    "include": ["MyPlugin.ts"]
+    "include": ["plugins/MyPlugin.ts"]
 }
